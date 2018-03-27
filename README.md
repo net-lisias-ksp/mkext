@@ -3,13 +3,18 @@
 C7's Mk 1, 2 and 3 Extensions for KSP
 
 
+## About L Aerospace
+
+A new kid on the block, plain simple. We came from nowhere and we don't know where we're going, but hey, we know how to fly to there!
+
+We still have some landing surviving issues, but we're working on that.
+
+**L Aerospace KSP Division: Boldly crashing what no Kerbal has crashed before.**
+
+
 ## Description
 
-Using inspiration from [Mk-Cabin-Hatch](https://github.com/skalou/Mk1-Cabin-Hatch), blablabla, WiP.
-
-
-
-### Parts
+### In a hurry
 
 * Mk1
 	+ Mark1 Standard Cockpit, Civilian Version
@@ -20,6 +25,14 @@ Using inspiration from [Mk-Cabin-Hatch](https://github.com/skalou/Mk1-Cabin-Hatc
 + Mk3
 	+ Some specialized fuel tanks
 
+
+## References
+
+* Rationale and discussion about some problems this add-on solves (or creates):
+	+ [Mk1 Crew Cabin needs a side door](https://forum.kerbalspaceprogram.com/index.php?/topic/136279-mk1-crew-cabin-needs-a-side-door/&page=2) (Forum Thread)
+	+ [Why doesn't the Mk1 passenger module have a top hatch?](https://www.reddit.com/r/KerbalSpaceProgram/comments/3tfll9/why_doesnt_the_mk1_passenger_module_have_a_top/) (Reddit)
+* [Mk1-Cabin-Hatch](https://github.com/skalou/Mk1-Cabin-Hatch)
+	+ inspiration for implementing some tricks
 
 ## Known Issues
 
@@ -48,9 +61,13 @@ Using inspiration from [Mk-Cabin-Hatch](https://github.com/skalou/Mk1-Cabin-Hatc
 
 ## License
 
-This work is double licensed under [LKL 1.0](http://ksp.lisias.net/SKL-1_0.txt) and [GPL 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt) - at your discretion or need.
+This work is double licensed under [LKL 1.0](http://ksp.lisias.net/SKL-1_0.txt) and [GPL 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt) - at your discretion and/or need.
 
 - - - 
+
 See also:
-	* Thread on KSP Forum.
-	* [L Aerospace KSP Division](http://ksp.lisias.net/) Home Page
+
+* Thread on KSP Forum.
+* L Aerospace KSP Division
+	+ [Home Page](http://ksp.lisias.net/)
+	+ [Research & Development Headquarters](https://github.com/net-lisias-ksp)
