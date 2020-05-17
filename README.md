@@ -36,6 +36,10 @@ We still have some landing surviving issues, but we're working on that.
 
 ## Known Issues
 
+* There're some legal issues I need to cope.
+	* I just copied and paste configs from Stock. I shuold had used Module Manager's copy operator to do that.
+	* It would make things a lot easier too, as it would earn for free any changes from the Stock settings.
+	* Until I do it, please don't redistribute any of this - let's do the right thing, okay?
 * Mk1 Cockpit Civilian
 	* The Pilot's SelfieCam is out of place (the console is on the way)
 	* The cabin's lights are not working. I messed up the GLOW UV mapping somehow.
