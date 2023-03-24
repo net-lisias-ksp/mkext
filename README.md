@@ -65,7 +65,7 @@ We still have some landing surviving issues, but we're working on that.
 
 ## License
 
-This work is double licensed under [LKL 1.0](http://ksp.lisias.net/SKL-1_0.txt) and [GPL 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt) - at your discretion and/or need.
+This work is double licensed under [SKL 1.0](http://ksp.lisias.net/SKL-1_0.txt) and [GPL 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt) - at your discretion and/or need.
 
 - - - 
 
