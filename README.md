@@ -27,10 +27,10 @@ We still have some landing surviving issues, but we're working on that.
 * Aero	
 	+ XM-G90 Radial Air Intake Turbo, a bigger (and heavier) radial Air Intake with a Brawler!
 * Engines
-	+ Vernor Vtol Engine, a small, powerful, gaz guzzler and extremely heat producer engine specialised for short time VTOL operations.
-		+ Keep an eye on the fuel and electricity consuption!
+	+ Vernor Vtol Engine, a small, powerful, gaz guzzler and extremely heat producer engine specialised for short time VTOL operations. With a modest but useful gimbaling.
+		+ Keep an eye on the fuel and electricity consumption!
 		+ Keep both eyes on the heating!! 
-			- Warranty void if used for barbecues. 
+			- Warranty void if used for barbecues (don't cook your crew!).
 
 
 ## References
