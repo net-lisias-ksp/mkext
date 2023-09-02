@@ -1,11 +1,11 @@
 # net.lisias.ksp/mkext
 
-C7's Mk 1, 2 and 3 Extensions for KSP
+C7's Mk 1, 2 and 3 Extensions for KSP from L Aerospace.
 
 
 ## About L Aerospace
 
-A new kid on the block, plain simple. We came from nowhere and we don't know where we're going, but hey, we know how to fly to there!
+A new kid on the block, plain simple. We came from nowhere and we don't know where we're going, but hey, we know how to fly to there fast!
 
 We still have some landing surviving issues, but we're working on that.
 
@@ -19,11 +19,11 @@ We still have some landing surviving issues, but we're working on that.
 * Mk1
 	+ Mark1 Standard Cockpit, Civilian Version
 	+ Mk1 Boarding Hatch
-	+ Some specialized fuel tanks
-+ Mk2
-	+ Some specialized fuel tanks
-+ Mk3
-	+ Some specialized fuel tanks
+	+ Some specialised fuel tanks
+* Mk2
+	+ Some specialised fuel tanks
+* Mk3
+	+ Some specialised fuel tanks
 
 
 ## References
@@ -65,7 +65,7 @@ We still have some landing surviving issues, but we're working on that.
 
 ## License
 
-This work is double licensed under [SKL 1.0](http://ksp.lisias.net/SKL-1_0.txt) and [GPL 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt) - at your discretion and/or need.
+This work is licensed under [SKL 1.0](http://ksp.lisias.net/SKL-1_0.txt).
 
 - - - 
 
