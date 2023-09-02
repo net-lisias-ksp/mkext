@@ -24,6 +24,8 @@ We still have some landing surviving issues, but we're working on that.
 	+ Some specialised fuel tanks
 * Mk3
 	+ Some specialised fuel tanks
+* Aero	
+	+ XM-G90 Radial Air Intake Turbo, a bigger (and heavier) radial Air Intake with a Brawler!
 
 
 ## References
