@@ -1,15 +1,15 @@
 # net.lisias.ksp/mkext
 
-C7's Mk 1, 2 and 3 Extensions for KSP from L Aerospace.
+C7's Mk 1, 2 and 3 Extensions for KSP from L/Aerospace.
 
 
-## About L Aerospace
+## About L/Aerospace
 
 A new kid on the block, plain simple. We came from nowhere and we don't know where we're going, but hey, we know how to fly to there fast!
 
 We still have some landing surviving issues, but we're working on that.
 
-**L Aerospace KSP Division: Boldly crashing what no Kerbal has crashed before.**
+**L/Aerospace KSP Division: Boldly crashing what no Kerbal has crashed before.**
 
 
 ## Description
@@ -18,6 +18,7 @@ We still have some landing surviving issues, but we're working on that.
 
 * Mk1
 	+ Mark1 Standard Cockpit, Civilian Version
+	+ Specialized Crew Cabins
 	+ Mk1 Boarding Hatch
 	+ Some specialised fuel tanks
 * Mk2
@@ -25,7 +26,7 @@ We still have some landing surviving issues, but we're working on that.
 * Mk3
 	+ Some specialised fuel tanks
 * Aero	
-	+ XM-G90 Radial Air Intake Turbo, a bigger (and heavier) radial Air Intake with a Brawler!
+	+ XM-G90 Radial Air Intake Turbo, a bigger (and heavier) radial Air Intake with a supercharger!
 * Engines
 	+ Vernor Vtol Engine, a small, powerful, gaz guzzler and extremely heat producer engine specialised for short time VTOL operations. With a modest but useful gimbaling.
 		+ Keep an eye on the fuel and electricity consumption!
@@ -45,6 +46,7 @@ We still have some landing surviving issues, but we're working on that.
 
 * There're some legal issues I need to cope.
 	* I just copied and paste configs from Stock. I shuold had used Module Manager's copy operator to do that.
+		+ Work in Progress
 	* It would make things a lot easier too, as it would earn for free any changes from the Stock settings.
 	* Until I do it, please don't redistribute any of this - let's do the right thing, okay?
 * Mk1 Cockpit Civilian
@@ -79,6 +81,7 @@ This work is licensed under [SKL 1.0](http://ksp.lisias.net/SKL-1_0.txt).
 See also:
 
 * Thread on KSP Forum.
+	+ I don't think this is going to happen anymore...
 * L Aerospace KSP Division
 	+ [Home Page](http://ksp.lisias.net/)
 	+ [Research & Development Headquarters](https://github.com/net-lisias-ksp)
