@@ -8,6 +8,7 @@ GameData/**/README.md
 GameData/**/CHANGE_LOG.md
 GameData/**/KNOWN_ISSUES.md
 GameData/**/*.version
+GameData
 Source/**/Properties/Version.cs
 Source/**/Properties/Configuration.cs
 Source/*/*.user
