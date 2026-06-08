@@ -1,1 +1,16 @@
 *.blend1
+.vs
+Archive
+GameData/**/*.dll
+GameData/**/LICENSE*
+GameData/**/NOTICE
+GameData/**/README.md
+GameData/**/CHANGE_LOG.md
+GameData/**/KNOWN_ISSUES.md
+GameData/**/*.version
+Source/**/Properties/Version.cs
+Source/**/Properties/Configuration.cs
+Source/*/*.user
+bin
+obj
+packages
