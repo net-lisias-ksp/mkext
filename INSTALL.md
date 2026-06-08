@@ -38,7 +38,13 @@ The following file layout must be present after installation:
 		[net.lisias.ksp]
 			[mkext]
 				[Mk0]
+					...
 				[Mk1]
+					...
+				[...]
+				CHANGE_LOG.md
+				README.md
+				mkext.version
 				...
 		000_KSPe.dll
 		001_KSPe.dll
@@ -57,3 +63,4 @@ The following file layout must be present after installation:
 	+ **Not Included**
 + [L/Aerospace](https://github.com/net-lisias-ksp/L-Aerospace/releases)
 	+ **Not Included**
+	+ Optional for most parts, you can not install this one and walk most of the time.
